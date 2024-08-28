@@ -1,1 +1,2 @@
-this repository will hold all public projects
+# public-projects
+This repository is for public projects
