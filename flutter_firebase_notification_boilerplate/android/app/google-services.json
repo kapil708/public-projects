@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "372531273676",
+    "project_id": "notification-boilerplate",
+    "storage_bucket": "notification-boilerplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372531273676:android:c54275548fc6cad23cc769",
+        "android_client_info": {
+          "package_name": "com.pinetco.notification_boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372531273676-m799c814bor8r50rn6jpbosnjgtkpm6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinetco.notification_boilerplate",
+            "certificate_hash": "4fd90ed5c3d08e1c8925d29a53c486e40544aa6a"
+          }
+        },
+        {
+          "client_id": "372531273676-o5ohcvm6lo6fbvgjlgb60lidtspa1hq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZigDXP5lQ9YOxIm57s9FmeHEBFnDP1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372531273676-o5ohcvm6lo6fbvgjlgb60lidtspa1hq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
