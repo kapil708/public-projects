@@ -1,0 +1,36 @@
+{
+  "joinWithGoogle": "Join with Google",
+  "joinAsGuest": "Join as Guest",
+  "loginFailed": "Login failed",
+  "retry": "Retry",
+  "categories": "Categories",
+  "categoriesMessage": "Select any topic to start the game",
+  "home": "Home",
+  "settings": "Settings",
+  "level": "Level",
+  "score": "Score",
+  "joinHangManWithYourSocialMediaAccount": "Join HangMan with your social media account",
+  "supportUs": "Support Us",
+  "rate5Starts": "Rate 5-Starts",
+  "shareHangman": "Share Hangman",
+  "language": "Language",
+  "chooseLanguage": "Choose Preferred Language",
+  "theme": "Theme",
+  "system": "System",
+  "alert": "Alert",
+  "cancel": "Cancel",
+  "youWin": "You Win :)",
+  "youWinMessage": "You have guss the correct word, would you like to play next game?",
+  "playNext": "Play Next",
+  "youLost": "You Lost :(",
+  "youLostMessage": "It's okay to lose, would you like to try again",
+  "tryAgain": "Try Again",
+
+
+
+  "welcomeUser": "Welcome {name}",
+  "stringWith1Param": "Here is 1st {name}",
+  "@stringWith1Param": {"placeholders": {"name": {"type": "String"}}},
+  "stringWith2Param": "Here is 1st {name} and here is 2nd {name1}",
+  "@stringWith2Param": {"placeholders": {"name": {"type": "String"},"name1": {"type": "String"}}}
+}
